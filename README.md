@@ -3,8 +3,10 @@ Soy un apasionado desarrollador de software con experiencia en Back End. Me enca
 
 💻 Mis Habilidades
 Lenguajes de Programación: Python, Java, C, Javascript y un poquito de C#.
+
 Tecnologías: Django, Django RESTFramework, Bootstrap 5 y un poquitin de React.
-Certificaciones: [Menciona cualquier certificación o título relevante que hayas obtenido]
+
+Certificaciones: Introduccion a la programacion con Java, FullStack developer, Testing manual, ágil y con herramientas.
 
 🚀 Mis Proyectos
 #### ⭐Home Banking⭐ - ITBA (Instituto Tecnologico de Buenos Aires)

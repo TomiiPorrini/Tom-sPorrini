@@ -1,7 +1,3 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-[Tu LinkedIn]-blue)
-![Website](https://img.shields.io/badge/Website-[Tu Sitio Web]-brightgreen)
-![Twitter](https://img.shields.io/badge/Twitter-[Tu Twitter]-informational)
-
 ## ¡Hola! Soy Tomás Porrini 😁
 Soy un apasionado desarrollador de software con experiencia en Back End. Me encanta crear soluciones innovadoras y colaborar con otros desarrolladores para mejorar el mundo a través de la tecnología.
 

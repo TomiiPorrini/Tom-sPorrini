@@ -10,15 +10,20 @@ Certificaciones: Introduccion a la programacion con Java, FullStack developer, T
 
 🚀 Mis Proyectos
 #### ⭐Home Banking⭐ - ITBA (Instituto Tecnologico de Buenos Aires)
+
 Diseñar un Home Banking por medio de Python y Django REST Framework, con funcionalidades especificas y con su API para poder mostrar los datos que se manejen en el back.
+
 📂Repo del proyecto: https://github.com/TomiiPorrini/Sprint-8
 
 #### ⭐Recetario⭐ - Universidad Provincial de Adm, Tecnologia y Oficios.
+
 Interfaz grafica realizada con Tkinter (Python) y con un back gestionado por medio de un archivo Json.
+
 📂Repo del proyecto: https://github.com/TomiiPorrini/Recetario-Project
 
 📫 Contáctame
 ¡Estoy abierto a colaborar en proyectos emocionantes! Puedes ponerse en contacto conmigo a través de:
+
 - Correo electrónico: tomas63025@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tomás-porrini/
 
